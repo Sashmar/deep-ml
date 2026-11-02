@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 8 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-11 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-13 | [solution](problems/0003-reshape-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-01 | [solution](problems/0002-transpose-of-a-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-02 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
