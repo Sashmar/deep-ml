@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T08:47:14.742Z",
+  "generated_at": "2026-11-03T06:25:38.523Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -36,9 +36,9 @@
       "url": "https://www.deep-ml.com/problems/1228",
       "path": "problems/1228-mean-squared-error-from-scratch",
       "first_solved_at": "2026-10-11T06:22:15.236Z",
-      "last_pushed_at": "2026-10-11T06:23:59.407Z",
+      "last_pushed_at": "2026-11-03T06:25:35.338Z",
       "language": "python",
-      "lines": 22
+      "lines": 21
     },
     "problem:8": {
       "kind": "problem",

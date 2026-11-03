@@ -11,11 +11,10 @@ def mse(pred, target):
     Returns:
         float: Mean of squared differences.
     """
-    # TODO
+    sub = target - pred
 
-    squared_diff = (pred - target) ** 2
+    sub = sub ** 2
 
-    mean_list = torch.mean(squared_diff)
+    s = torch.mean(sub)
 
-    return mean_list.item()
-
+    return s.item()
