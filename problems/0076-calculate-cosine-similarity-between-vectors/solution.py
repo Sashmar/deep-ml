@@ -10,7 +10,7 @@ def cosine_similarity(v1, v2):
 		The cosine_similarity of the two vectors.
 	"""
 	# Implement your code here
-	if v1.size == v2.size:
+	if v1.size == v2.size and v1.size > 0 and v2.size > 0:
 		v1v2 = np.dot(v1, v2)
 
 		v1v1 = np.power(v1, 2)
