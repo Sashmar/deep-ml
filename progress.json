@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:32:18.121Z",
+  "generated_at": "2026-11-05T14:22:04.266Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -228,6 +228,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-11-04T08:32:15.671Z",
       "last_pushed_at": "2026-11-04T08:32:15.671Z"
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-11-05T14:22:01.207Z",
+      "last_pushed_at": "2026-11-05T14:22:01.207Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
