@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 16 problems · 1 labs · 3 math
+**21** solved · 17 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-04 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-10 | [solution](problems/0083-dot-product-calculator) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-08 | [solution](problems/0042-implement-relu-activation-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-07 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-02 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-11 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-13 | [solution](problems/0003-reshape-matrix) |
