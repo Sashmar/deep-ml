@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 17 problems · 1 labs · 3 math
+**22** solved · 18 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-05 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-11-03 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-31 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-11-08 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-04 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-10 | [solution](problems/0083-dot-product-calculator) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-08 | [solution](problems/0042-implement-relu-activation-function) |
